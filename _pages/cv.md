@@ -19,5 +19,5 @@ Education
 Postdoctoral Training
 ======
 * Joint Postdoctoral Fellow, 2017-present
-* University of Maryland College Park, Department of Physics, Institute for Physical Science and Technology, Advisor: Dr. Wolfgang Losert
-* National Institute of Neurological Disorders and Stroke of the National Institutes of Health, Axon Guidance and Neural Connectivity Section, Advisor: Dr. Edward Giniger
+	* University of Maryland College Park, Department of Physics, Institute for Physical Science and Technology, Advisor: Dr. Wolfgang Losert
+	* National Institute of Neurological Disorders and Stroke of the National Institutes of Health, Axon Guidance and Neural Connectivity Section, Advisor: Dr. Edward Giniger
