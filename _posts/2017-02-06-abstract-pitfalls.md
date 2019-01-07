@@ -15,4 +15,5 @@ tags:
 Abstracts are a challenging but important part of any fellowship application. The abstract is often the first (or one of the first) components of your application that the reviewer sees. Therefore, it is important to use the abstract to give the reviewer the best...
 
 Read the rest here: [http://gradfund.rutgers.edu/blog/structuring-proposal-abstract/](http://gradfund.rutgers.edu/blog/structuring-proposal-abstract/)
+
 ------
